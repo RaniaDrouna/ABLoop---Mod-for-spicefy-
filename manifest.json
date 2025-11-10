@@ -1,0 +1,15 @@
+{
+  "manifest_version": 4,
+  "type": "extension",
+  "name": "AB Loop",
+  "description": "Simple tool to select a section of a song in which it loops through",
+  "authors": [
+    {
+      "name": "Rae",
+      "url": "https://github.com/RaniaDrouna"
+    }
+  ],
+  "version": "1.0.0",
+  "main": "ABloop.js",
+  "inject": ["XPUI.js"]
+}
