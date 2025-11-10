@@ -1,0 +1,16 @@
+
+ {
+    "manifest_version": 4,
+    "name": "AB loop",
+    "description": "Simple tool to select a section of a song in which it loops through",
+    "preview": "screenshot.png",
+    "main": "ABloop.js",
+    "readme": "README.md",
+    "authors": [
+        { "name": "Raewby", 
+          "url": "https://github.com/raniadrouna" }
+    ],
+    "tags": ["playback"],
+    "version": "1.0.0",
+    "inject": ["XPUI.js"]
+  }
